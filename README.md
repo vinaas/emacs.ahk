@@ -1,6 +1,9 @@
 # emacs.ahk 
 This tiny script allows you to use the emacs-like key bindings on Windows, which is written in AutoHotkey (AHK) language. The maintainer has used this script since 2007 and has verified that it works effectively for various kinds of applications.
-
+## Ghi chú
+- C: ctrl
+- W: window key
+- M: alt key
 ## Supported keybindings
 <table>
   <tr>
@@ -76,7 +79,7 @@ This tiny script allows you to use the emacs-like key bindings on Windows, which
 <td>kill-ring-save</td>
 </tr>
 <tr>
-<td>C-y</td>
+<td>W-y</td>
 <td>yank</td>
 </tr>
 <tr>
@@ -84,7 +87,7 @@ This tiny script allows you to use the emacs-like key bindings on Windows, which
 <td>undo</td>
 </tr>
 <tr>
-<td>C-a</td>
+<td>C-q</td>
 <td>move-beginning-of-line</td>
 </tr>
 <tr>
@@ -108,7 +111,7 @@ This tiny script allows you to use the emacs-like key bindings on Windows, which
 <td>backward-char</td>
 </tr>
 <tr>
-<td>C-v</td>
+<td>W-v</td>
 <td>scroll-down</td>
 </tr>
 <tr>
