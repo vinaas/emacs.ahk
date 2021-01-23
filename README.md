@@ -4,6 +4,11 @@ This tiny script allows you to use the emacs-like key bindings on Windows, which
 - C: ctrl
 - W: window key
 - M: alt key
+
+- Ctrl + A: select All, Ctrl + Q: về đầu hàng
+- Ctrl + C: copy,  đổi sang Win+C: 
+- Ctrl + P: paste, tác vụ hiện tại đổi sang Win+P
+- Ctrl + / : comment trong VSCode (cho lập trình), đổi sang M + / 
 ## Supported keybindings
 <table>
   <tr>
